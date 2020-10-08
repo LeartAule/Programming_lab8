@@ -14,7 +14,7 @@ public class DataBaseManager implements Serializable {
 
     protected static LinkedHashMap<Integer, Dragon> dragonLinkedHashMap = new LinkedHashMap<Integer, Dragon>();
     private String USER = "s284702";
-    private String PASSWORD = "tfo348";
+    private String PASSWORD = "------";
 
     public DataBaseManager() {
         try {
